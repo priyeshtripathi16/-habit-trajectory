@@ -29,7 +29,7 @@ The page runs 600 simulated futures, each one a week-by-week path with random sh
 
 ## Run it
 
-No install and no server. Open `index.html` in any modern browser, or use the GitHub Pages link.
+No install and no server. download and Open `index.html` in any modern browser, or use the GitHub Pages link.
 
 ## Privacy
 
