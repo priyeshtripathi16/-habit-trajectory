@@ -60,9 +60,6 @@ This is a planning aid built on assumptions, not a prediction. Treat the numbers
 
 - `index.html` the whole app in one file (styles, model, interface and embedded audio).
 
-## Licence
-
-Choose a licence before publishing. See `LICENSE` if included.
 
 ---
 
