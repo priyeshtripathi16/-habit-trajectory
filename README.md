@@ -1,6 +1,7 @@
 [![Live demo](https://img.shields.io/badge/live-demo-1dab7a)](https://priyeshtripathi16.github.io/habit-trajectory/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 # Habit Trajectory
+[Watch the launch video](https://github.com/priyeshtripathi16/-habit-trajectory/releases/download/launch/habit_trajectory_launch_1080p.mp4)
 
 A personal five-year simulator. Enter your everyday habits, such as study hours, reading, sleep, exercise, screen time and savings, and see the range of ways your life could go over the next five years.
 
