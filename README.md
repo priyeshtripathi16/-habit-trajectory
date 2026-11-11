@@ -1,3 +1,5 @@
+[![Live demo](https://img.shields.io/badge/live-demo-1dab7a)](https://priyeshtripathi16.github.io/habit-trajectory/)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 # Habit Trajectory
 
 A personal five-year simulator. Enter your everyday habits, such as study hours, reading, sleep, exercise, screen time and savings, and see the range of ways your life could go over the next five years.
@@ -35,6 +37,17 @@ Your inputs are stored only in your browser's local storage. Nothing is sent to 
 This is a planning aid built on assumptions, not a prediction. Treat the numbers as a way to compare choices, not as forecasts.
 
 ## Files
+
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/main page.png" width="48%" />
+  <img src="screenshots/scorecard.png" width="48%" />
+</p>
+<p align="center">
+  <img src="screenshots/graph.png" width="48%" />
+  <img src="screenshots/graph2.png" width="48%" />
+</p>
 
 - `index.html` the whole app in one file (styles, model, interface and embedded audio).
 
