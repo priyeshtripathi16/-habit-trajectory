@@ -41,7 +41,7 @@ This is a planning aid built on assumptions, not a prediction. Treat the numbers
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/main page.png" width="48%" />
+  <img src="screenshots/main page.png" width="100%" />
   <img src="screenshots/scorecard.png" width="48%" />
 </p>
 <p align="center">
