@@ -3,6 +3,14 @@
 # Habit Trajectory
 [Watch the launch video](https://github.com/priyeshtripathi16/-habit-trajectory/releases/download/launch/habit_trajectory_launch_1080p.mp4)
 
+
+
+https://github.com/user-attachments/assets/2316bff6-47ad-46cb-b850-6bac0240f0e0
+
+
+
+
+
 A personal five-year simulator. Enter your everyday habits, such as study hours, reading, sleep, exercise, screen time and savings, and see the range of ways your life could go over the next five years.
 
 The page runs 600 simulated futures, each one a week-by-week path with random shocks such as burnout, job changes and setbacks. The chart shows the median path and the spread around it, so you can see how much your habits matter compared with luck.
